@@ -1,9 +1,9 @@
 <h1>
  Hacktoberfest 2021 with ISTE-VIT
 </h1>
-<br> Get all the resources required for multiple domains ( ML, Web-Dev and App-Dev) at one place! :smile: 
+<br> Get all the resources required for the domains - ML, Web-Dev and App-Dev at one place! :smile: 
 <br>
-If you're a tech enthusiast :sunglasses: and want to add or improve a snippet of code your contribution is welcome! 
+If you're a tech enthusiast :sunglasses: and want to add or improve a snippet of code, your contribution is welcome! 
 <br>
 
 
@@ -36,7 +36,7 @@ All that one must do is contribute to any open source project and send atleast 4
 
 #### Kindly mention the following while making a PR:
 
-* Mention the domain along with the subcategory and the programming language. Ex: Web-Dev - backend - JavaScript
+* Mention the domain along with the subcategory and the programming language/framework. Ex: Web-Dev - backend framework - ExpressJs
 * If the PR is not in the right format, it will not be merged and marked as invalid.
 * Don't make any changes in the repo format or create new issues without asking the maintainers.
 
