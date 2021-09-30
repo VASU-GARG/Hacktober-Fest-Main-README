@@ -13,9 +13,9 @@ If you're a tech enthusiast :sunglasses: and want to add or improve a snippet of
 <h2>
  What is Hacktoberfest2021 :thinking:? 
 </h2>
-Hacktoberfest is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio. Hacktoberfest is open to everyone in the global community!
+Hacktoberfest, in its 8th year, is a month-long celebration of open source software run by DigitalOcean. During the month of October, we invite you to join open-source software enthusiasts, beginners, and the developer community by contributing to open-source projects. 
 
-All that one must do is contribute to any open source project and send atleast 4 pull request between October 1 and October 31. It can be any project and you can contribute in any way possible. It can be a be a bug fix, improvement,feature addition  or even a documentation change! And win a T-Shirt and awesome stickers :star_struck:.
+All that one must do is contribute to any open source project and send atleast 4 pull request between October 1 and October 31. It can be any project and you can contribute in any way possible. It can be a be a bug fix, improvement,feature addition  or even a documentation change! And win limited edition T-Shirt :star_struck:.
 
 
 [Registration Link](https://hacktoberfest.digitalocean.com/)
@@ -27,6 +27,7 @@ All that one must do is contribute to any open source project and send atleast 4
 * Folders for different domains are created in the repo.
 * Commit new changes in respective folders, explaining the change you want to do.
 * Avoid duplications.
+* Along with the code, upload the screenshots and the links for deployed project or APK file.
 * Test your code for any kind of bugs or errors before sending the pull request.
 * Send pull request for review.
 
