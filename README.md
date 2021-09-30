@@ -1,9 +1,9 @@
 <h1>
  Hacktoberfest 2021 with ISTE-VIT
 </h1>
-<br> Get all the resources required for data structures at one place! :smile: 
+<br> Get all the resources required for multiple domains ( ML, Web-Dev and App-Dev) at one place! :smile: 
 <br>
-If you're an algorithms enthusiast :sunglasses: and want to add or improve an algorithm or snippet of code your contribution is welcome! 
+If you're a tech enthusiast :sunglasses: and want to add or improve a snippet of code your contribution is welcome! 
 <br>
 
 
@@ -24,21 +24,21 @@ All that one must do is contribute to any open source project and send atleast 4
 
 ## Steps to Contribute
 
-* Folders for different data structures are created in the repo. Each folder consists of sub folders for different languages.
-* Commit new changes in respective folders, explaining the algorithm/change you want to do.
-* If you want to add any new language or data structure , feel free to do so! :relieved: 
-* Test your algorithm thoroughly.
+* Folders for different domains are created in the repo.
+* Commit new changes in respective folders, explaining the change you want to do.
+* Avoid duplications.
+* Test your code for any kind of bugs or errors before sending the pull request.
 * Send pull request for review.
 
 
 ## Contribution Guidelines 
 
 #### Kindly mention the following while making a PR:
-* Mention the problem type along with the subcategory and the programming language.
+
+* Mention the domain along with the subcategory and the programming language. Ex: Web-Dev - backend - JavaScript
 * If the PR is not in the right format, it will not be merged and marked as invalid.
 * Don't make any changes in the repo format or create new issues without asking the maintainers.
-* You can make a new folder if a particular topic is missing.
-* Kindly avoid repeating the algorithms which are already available.
+
 
 #### All your PRs will be marked as invalid if you don't adhere to the rules.
 #### Keep contributing!!
