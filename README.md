@@ -1,14 +1,16 @@
+<img src="https://github.com/vinitshahdeo/Hacktoberfest2021/raw/main/assets/logo.png">
 <h1>
- Hacktoberfest 2021 with ISTE-VIT
+Hacktoberfest 2021 with ISTE-VIT
 </h1>
 <br> Get all the resources required for the domains - ML, Web-Dev and App-Dev at one place! :smile: 
 <br>
+
 If you're a tech enthusiast :sunglasses: and want to add or improve a snippet of code, your contribution is welcome! 
 <br>
 
 
 <br>
-<img src="https://github.com/vinitshahdeo/Hacktoberfest2021/raw/main/assets/logo.png">
+
 
 <h2>
  What is Hacktoberfest2021 :thinking:? 
